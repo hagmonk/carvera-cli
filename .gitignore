@@ -1,0 +1,23 @@
+# macOS
+**/.DS_Store
+
+# Cursor IDE
+.cursor/
+
+# Python build artifacts & cache
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# IDE specific files (add more as needed)
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp 
